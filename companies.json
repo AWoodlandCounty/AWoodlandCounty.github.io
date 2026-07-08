@@ -1,19 +1,19 @@
 [
   {
     "name": "Example Company 01",
-    "logo": "WCLogo.png",
+    "logo": "WC.png",
     "description": "description",
     "category": "category"
   },
     {
     "name": "Example Company 02",
-    "logo": "WCLogo.png",
+    "logo": "WC.png",
     "description": "description",
     "category": "category"
   },
   {
     "name": "Example Company 03",
-    "logo": "WCLogo.png",
+    "logo": "WC.png",
     "description": "description",
     "category": "category"
   }
