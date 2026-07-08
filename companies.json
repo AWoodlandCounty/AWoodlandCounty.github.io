@@ -3,18 +3,18 @@
     "name": "Example Company 01",
     "logo": "WC.png",
     "description": "description",
-    "category": "category"
+    "category": "Manufacturing"
   },
     {
     "name": "Example Company 02",
     "logo": "WC.png",
     "description": "description",
-    "category": "category"
+    "category": "Manufacturing"
   },
   {
     "name": "Example Company 03",
     "logo": "WC.png",
     "description": "description",
-    "category": "category"
+    "category": "Manufacturing"
   }
 ]
