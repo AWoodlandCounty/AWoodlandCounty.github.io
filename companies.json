@@ -1,20 +1,14 @@
 [
   {
-    "name": "Acme Timber Co.",
+    "name": "Example Company 1",
     "logo": "",
-    "description": "The county's primary lumber supplier, providing raw wood and processed planks to all districts.",
-    "category": "Forestry"
+    "description": "This is a description.",
+    "category": "Category 1"
   },
   {
-    "name": "Ironvale Foundry",
+    "name": "Example Company 2",
     "logo": "",
-    "description": "Smelts ore and produces refined metals used in construction and machinery across the county.",
-    "category": "Manufacturing"
-  },
-  {
-    "name": "Greenfield Farms",
-    "logo": "",
-    "description": "Feeds the county. Grows crops, raises livestock, and distributes food to the town market.",
-    "category": "Agriculture"
+    "description": "This is a description.",
+    "category": "Category 2"
   }
 ]
