@@ -1,13 +1,13 @@
 [
   {
     "name": "Example Company 1",
-    "logo": "",
+    "logo": "WCLogo.png",
     "description": "This is a description.",
     "category": "Category 1"
   },
   {
     "name": "Example Company 2",
-    "logo": "",
+    "logo": "WCLogo.png",
     "description": "This is a description.",
     "category": "Category 2"
   }
