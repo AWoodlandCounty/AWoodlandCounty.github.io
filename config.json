@@ -1,0 +1,34 @@
+{
+  "modpackName": "Woodland County",
+  "modpackVersion": "v1.0.0",
+  "minecraftVersion": "1.21.1",
+  "neoforgeVersion": "21.1.234",
+  "description": "A grounded, semi-realistic survival experience. Build a town, find employment, develop industry, and coordinate city planning. No magic. Just mechanics, community, and hard work.",
+
+  "downloadUrl": "",
+  "showComingSoon": true,
+  "downloadLabel": "Download Modpack",
+
+  "features": [
+    {
+      "icon": "hammer",
+      "title": "Employment & Labor",
+      "description": "Take on specific roles. Specialized tools and economics make every job essential to the town."
+    },
+    {
+      "icon": "factory",
+      "title": "Heavy Industry",
+      "description": "Design assembly lines and process raw materials. Automation is grounded and requires planning."
+    },
+    {
+      "icon": "map",
+      "title": "City Planning",
+      "description": "Use blueprints and road networks to connect districts. World generation supports large-scale expansion."
+    }
+  ],
+
+  "mapImageUrl": "",
+  "mapCaption": "Woodland County — Server Map",
+
+  "footerNote": "Not affiliated with Mojang AB. Built for the community."
+}
