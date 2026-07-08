@@ -3,10 +3,10 @@
   "modpackVersion": "v1.0.0",
   "minecraftVersion": "1.21.1",
   "neoforgeVersion": "21.1.234",
-  "description": "A grounded, semi-realistic survival experience. Build a town, find employment, develop industry, and coordinate city planning. No magic. Just mechanics, community, and hard work.",
+  "description": "A semi-realistic survival experience. Build a town, find employment, develop industry, and coordinate city planning. Mechanics, community, and hard work.",
 
   "downloadUrl": "",
-  "showComingSoon": true,
+  "showComingSoon": false,
   "downloadLabel": "Download Modpack",
 
   "features": [
@@ -23,12 +23,12 @@
     {
       "icon": "map",
       "title": "City Planning",
-      "description": "Use blueprints and road networks to connect districts. World generation supports large-scale expansion."
+      "description": "Use books and sketch out roads and road networks to connect districts."
     }
   ],
 
   "mapImageUrl": "",
   "mapCaption": "Woodland County — Server Map",
 
-  "footerNote": "Not affiliated with Mojang AB. Built for the community."
+  "footerNote": "Not affiliated with Mojang AB. Built for our community."
 }
