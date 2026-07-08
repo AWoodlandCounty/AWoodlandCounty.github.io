@@ -1,13 +1,13 @@
 [
   {
     "name": "Example Company 01",
-    "logo": "WCLogo.png",
+    "logo": "factory",
     "description": "This is a description.",
     "category": "Manufacturing"
   },
   {
     "name": "Example Company 02",
-    "logo": "WCLogo.png",
+    "logo": "factory",
     "description": "This is a description.",
     "category": "Forestry"
   }
